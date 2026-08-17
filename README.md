@@ -78,7 +78,7 @@ data/
 
 The room information is loaded from the room data file, while reservation information is stored separately.
 
-🛠️Technologies Used
+🛠️**Technologies Used**
 
 Programming Language: Java
 GUI Framework: Java Swing
